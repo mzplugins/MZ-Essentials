@@ -1,0 +1,9 @@
+name: MZ-Essentials
+version: 1.0.0
+main: br.com.mz.Main
+api-version: '1.20'
+description: Essentials plugin build on youtube
+author: MZ Plugins
+commands:
+   tpa:
+      description: Voce pode enviar, aceitar ou recusar pedidos de teleport usando essa comando.
